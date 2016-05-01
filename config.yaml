@@ -1,0 +1,5 @@
+docker:
+    api: "http://localhost:4500"
+mongodb:
+    connectionstring: "https://connectionstringThatContainUsernameAndPassword"
+    database: usages
