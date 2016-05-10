@@ -1,1 +1,0 @@
-"# QuickScaling-KubernetesUsage-Data" 
